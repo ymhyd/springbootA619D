@@ -1,5 +1,3 @@
-# springbootA619D
-springbootA619D黄山茶园信息管理系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
